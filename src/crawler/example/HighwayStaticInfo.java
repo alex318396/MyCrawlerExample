@@ -18,7 +18,8 @@ public class HighwayStaticInfo {
 		System.out.println(
 				CrawlerPack.start()
 			    	.getFromXml(uri)
-			    
+
 		);
+		System.out.println("Hello Github");
 	}
 }
